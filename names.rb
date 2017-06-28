@@ -1,6 +1,6 @@
-def me_myself_and_you(full_name) #arguments first and last name
-
-puts "whats up biatch? #{full_name}"
+def fuck_you(num)  #num so you can use any number
+	num.times do 
+		puts "joe is an ass"
+	end
 end
-
-me_myself_and_you("Kanye")
+fuck_you(420)
